@@ -6,4 +6,4 @@ one machine acts as server while multiple machines connect to it as clients usin
 
 all machines must be connected to the same network 
 
-ip address(Host variable) of Server should be 0.0.0.0 while in clients it should be the ip address of the server machine
+Host variable of Server should be 0.0.0.0 while in clients it should be the ip address of the server machine
